@@ -1,0 +1,3 @@
+botname = AtmHound
+botUserName = atmhound_bot
+token= #bot-token
